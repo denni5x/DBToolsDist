@@ -1,5 +1,9 @@
 # DBTools - A mod for Axiom by denni5x
 
+<p align="center">
+  <img src="media/icon.png" />
+</p>
+
 ## Features:
 
 DBTools is a mod for Axiom that provides various tools to enhance the development experience. It includes the following features:

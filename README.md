@@ -3,10 +3,10 @@
 ## Features:
 
 DBTools is a mod for Axiom that provides various tools to enhance the development experience. It includes the following features:
-- [**Place Tool**](##Place Tool): A tool to place blueprints in you world and auto rotating them according to the targeted block face.
-- [**Create Tool**](##Create Tool): A tool to create multiple blueprints of assets which are aligned in a grid pattern.
-- [**Blueprint To Schematic Tool**](##Blueprint To Schematic Tool): A tool to bulk convert blueprints into schematics.
-- [**Schematic To Blueprint Tool**](##Schematic To Blueprint Tool): A tool to bulk convert schematics into blueprints.
+- **Place Tool**: A tool to place blueprints in you world and auto rotating them according to the targeted block face.
+- **Create Tool**: A tool to create multiple blueprints of assets which are aligned in a grid pattern.
+- **Blueprint To Schematic Tool**: A tool to bulk convert blueprints into schematics.
+- **Schematic To Blueprint Tool**: A tool to bulk convert schematics into blueprints.
 
 ## Installation:
 

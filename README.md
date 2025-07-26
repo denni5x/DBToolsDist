@@ -116,6 +116,11 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - `Blueprint Folder Path`: The folder where the blueprints are located
 - `Convert Blueprints`: This button will convert all schematics in the selected folder to blueprints and save them in the target folder
 
+## Support/ Contact
+If you have feedback or found bugs, feel free to contact me through Discord: @denni5x
+
+
+
 ## Theme and Layout
 
 If you want my theme and or layout, you can copy the following code snippets and paste them into your Axiom Editor.

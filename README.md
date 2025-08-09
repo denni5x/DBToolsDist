@@ -11,6 +11,7 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - **Create Tool**: A tool to create multiple blueprints of assets which are aligned in a grid pattern.
 - **Blueprint To Schematic Tool**: A tool to bulk convert blueprints into schematics.
 - **Schematic To Blueprint Tool**: A tool to bulk convert schematics into blueprints.
+- **Blueprint To Path Tool**: A tool to paste blueprints along a given path, with a certain distance to each other
 
 ## Installation:
 
@@ -129,6 +130,28 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - `Blueprint Folder Path`: The folder where the blueprints are located
 - `Convert Blueprints`: This button will convert all schematics in the selected folder to blueprints and save them in the target folder
 
+## Blueprint To Path Tool
+
+### Usage
+- This tool is similar to the existing Path Tool with the clipboard option
+- A few differences are there:
+  - This tool does not rotate the clipboard
+  - Instead of pasting the clipboard right next to each other this tool allows for separation of the clipboards
+  - A new parameter `Distance` is introduced that lets you separate each pasted clipboard along the path
+  - The extend to ground option only extends the last layer of the clipboard to the ground, like the Stamp Tool does
+- This tool works great if you want to paste the same clipboard along a path (like lanterns along a small path)
+![BpToPathTool.png](media/BpToPathTool.png)
+
+### Tool Options
+- `Type`: Same options can be found for the Path Tool of Axiom - only difference being the first to line types are now just 'Line' as there isnt a big difference for this tool
+- `Looped`: Connects last point with the first point
+- `Distance`: Distance between each insertion point of a clipboard
+  - Note: This is not the distance between each clipboard, the insertion point of a clipboard is pretty much central of X/Z
+- `Point Section`: View some info of the current selected point
+- `Keep Existing`: Keeps existing blocks while pasting the clipboards
+- `Extend To Ground`: Extends the last layer of each clipboard to the ground
+- `Paste Copy`: Button to paste the current clipboard path - can also use `Enter` to paste
+
 ## Support/ Contact
 If you have feedback or found bugs, feel free to contact me through Discord: @denni5x
 
@@ -137,8 +160,8 @@ If you have feedback or found bugs, feel free to contact me through Discord: @de
 ## Theme and Layout
 
 If you want my theme and or layout, you can copy the following code snippets and paste them into your Axiom Editor.
-You can find the layout settings in the Axiom Editor under `Window -> Load Layout from Clipboard` and the theme 
-settings under `Help -> Style Editor -> Import from Clipboard`.
+- Layout settings: Open Axiom Editor in main menu bar go to `Window -> Load Layout from Clipboard` 
+- Theme settings: Open Axiom Editor in main menu bar go to `Help -> Style Editor -> Import from Clipboard`
 <details>
 <summary>Expand For Theme and Layout</summary>
 

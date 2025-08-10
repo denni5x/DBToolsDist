@@ -1,10 +1,14 @@
 # DBTools - A mod for Axiom by denni5x
 
 <p align="center">
-  <img src="media/icon.png" />
+  <img src="media/icon.png" alt="DBTools Icon" width="128" height="128" title="DBTools Icon"/>
 </p>
 
-## Features:
+## Download
+
+Latest version can be found here: https://github.com/denni5x/DBToolsDist/releases. If you need help for installation please visit [Installation](#Installation)
+
+## Features
 
 DBTools is a mod for Axiom that provides various tools to enhance the build experience. It includes the following features:
 - **Place Tool**: A tool to place blueprints in you world and auto rotating them according to the targeted block face.
@@ -13,7 +17,7 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - **Schematic To Blueprint Tool**: A tool to bulk convert schematics into blueprints.
 - **Blueprint To Path Tool**: A tool to paste blueprints along a given path, with a certain distance to each other
 
-## Installation:
+## Installation
 
 1. Download the latest mod release
    The latest release can be found at https://github.com/denni5x/DBToolsDist/releases. 
@@ -41,7 +45,7 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - If you see the new icons at the end of the tools list you have successfully installed the mod
 - You can hove over the icons to the see the tool names
 - It should look like this:  
-![toolbar.png](media/toolbar.png)
+<img alt="toolbar.png" src="media/toolbar.png" width="500"/>
 
 ## Place Tool
 
@@ -51,9 +55,9 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - The Place Tool will automatically rotate the blueprint according to the targeted block face
 
 - In the following example I copied a selection (in this case it is a simple window pattern)  
-![PlaceTool_1.png](media/PlaceTool_1.png)
+<img alt="PlaceTool_1.png" src="media/PlaceTool_1.png" width="500"/>
 - Now you can adjust the settings  
-![PlaceTool_2.png](media/PlaceTool_2.png)
+<img alt="PlaceTool_2.png" src="media/PlaceTool_2.png" width="500"/>
 
 ### Tool Options
   - `Live Preview`: If enabled, the preview will be updated in real-time as you move your mouse
@@ -72,15 +76,15 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - The Create Tool allows you to create multiple blueprints of assets
 - It's basically a combination of Axiom functionalities: Box Select or Magic Select, Copy & Save Blueprint
 - Grid selection works as follows: 
-  - You select a box use the mouse wheel to stack the selection in a direction left/ right/ up/ down or the `Stack` settings
-![CreateTool_1.png](media/CreateTool_1.png)
-![CreateTool_2.png](media/CreateTool_2.png)
+  - You select a box use the mouse wheel to stack the selection in a direction left/ right/ up/ down or the `Stack` settings  
+<img alt="CreateTool_1.png" src="media/CreateTool_1.png" width="500"/>  
+<img alt="CreateTool_2.png" src="media/CreateTool_2.png" width="500"/>  
 - Magic selection works as follows:
   - You select only one box for all assets and the tool use Magic Select to all connected blocks
   - The mouse wheel will adjust the size of the selection box, like in the Box Select Tool of Axiom
-  - Be aware that the Magic Select will select all connected blocks, your assets should not be connected to other blocks, otherwise the tool will select them as well (even outside the selected box)
-![CreateTool_3.png](media/CreateTool_3.png)
-![CreateTool_4.png](media/CreateTool_4.png)
+  - Be aware that the Magic Select will select all connected blocks, your assets should not be connected to other blocks, otherwise the tool will select them as well (even outside the selected box)  
+<img alt="CreateTool_3.png" src="media/CreateTool_3.png" width="500"/>  
+<img alt="CreateTool_4.png" src="media/CreateTool_4.png" width="500"/>
 - When all settings are done, you press `Enter` to create the blueprints in the selected folder
 - If a blueprint name already exist in the target folder, the tool will automatically search for the highest suffix and continue counting from there
 
@@ -109,7 +113,7 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - Simply select the source folder and the target folder for the blueprints and schematics respectively
 - Notice: the created schematics will have the new `.schem` file extension
 - Once selected press the `Convert` button to start the conversion process  
-![BlueprintToSchematic.png](media/BlueprintToSchematic.png)
+<img alt="BlueprintToSchematic.png" src="media/BlueprintToSchematic.png" width="500"/>
 
 ### Tool Options
 - `Blueprint Folder Path`: The folder where the blueprints are located
@@ -123,7 +127,7 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 - Simply select the source folder and the target folder for the blueprints and schematics respectively
 - Notice: The tool will convert schematics with the `.schem`, `.schematic` and `.litematic` file extension
 - Once selected press the `Convert` button to start the conversion process  
-![SchematicToBlueprint.png](media/SchematicToBlueprint.png)
+<img alt="SchematicToBlueprint.png" src="media/SchematicToBlueprint.png" width="500"/>
 
 ### Tool Options
 - `Schematic Folder Path`: The folder where the schematics are located
@@ -139,8 +143,8 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
   - Instead of pasting the clipboard right next to each other this tool allows for separation of the clipboards
   - A new parameter `Distance` is introduced that lets you separate each pasted clipboard along the path
   - The extend to ground option only extends the last layer of the clipboard to the ground, like the Stamp Tool does
-- This tool works great if you want to paste the same clipboard along a path (like lanterns along a small path)
-![BpToPathTool.png](media/BpToPathTool.png)
+- This tool works great if you want to paste the same clipboard along a path (like lanterns along a small path)  
+<img alt="BpToPathTool.png" src="media/BpToPathTool.png" width="500"/>
 
 ### Tool Options
 - `Type`: Same options can be found for the Path Tool of Axiom - only difference being the first to line types are now just 'Line' as there isnt a big difference for this tool
@@ -155,8 +159,6 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 ## Support/ Contact
 If you have feedback or found bugs, feel free to contact me through Discord: @denni5x
 
-
-
 ## Theme and Layout
 
 If you want my theme and or layout, you can copy the following code snippets and paste them into your Axiom Editor.
@@ -165,13 +167,13 @@ If you want my theme and or layout, you can copy the following code snippets and
 <details>
 <summary>Expand For Theme and Layout</summary>
 
-### Catppuccin Mocha Blue Theme:
+### Catppuccin Mocha Blue Theme
 
 ```
 ASel0AEENhdHBwdWNjaW5fTW9jaGEJSW1HdWlEYXJrKQD/9NbNAf9wW1gC8C4eHgTwLh4eBf8bEREHZkQyMQhmRDIxCWZEMjEK/y4eHgv/RDIxDIJEMjEN/y4eHg6CGxERD/9wW1gQ/1pHRRH/RDIxEv/+vrQT//6+tBT/spmTFWZEMjEW/3BbWBf/spmTGH4uHh4ZzIZwbBr/hnBsG4BwW1gc//6+tB3//r60HjP6tIkfq/q0iSD/+rSJIf9EMjEigf6+tCOB/r60JP9EMjElgf6+tCb//r60J/+GcGwt/5yEfy7/hnBsMv+v4vkFBUCAAAAGQIAAAAdAgAAACECAAAALQUAAAA==
 ```
 
-### Axiom Layout:
+### Axiom Layout
 
 ```
 [Window][###Tools]

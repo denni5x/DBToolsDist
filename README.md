@@ -48,7 +48,7 @@ DBTools is a mod for Axiom that provides various tools to enhance the build expe
 
 <p align="center">
     <img alt="toolbar.png" src="media/toolbar.png" width="500"/>
-</p></p>
+</p>
 
 ## Place Tool
 

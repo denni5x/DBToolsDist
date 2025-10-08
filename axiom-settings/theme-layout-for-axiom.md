@@ -2,21 +2,13 @@
 
 If you want my theme and or layout, you can copy the following code snippets and paste them into your Axiom Editor.
 
-* Layout settings: Open Axiom Editor in main menu bar go to `Window -> Load Layout from Clipboard`
-* Theme settings: Open Axiom Editor in main menu bar go to `Help -> Style Editor -> Import from Clipboard`\
+* Layout settings: Open Axiom Editor in main menu bar go to `Window -> Load Layout from Clipboard`\
+  \
 
 
 <details>
 
-<summary>Expand For Theme and Layout</summary>
-
-#### Catppuccin Mocha Blue Theme
-
-```
-ASel0AEENhdHBwdWNjaW5fTW9jaGEJSW1HdWlEYXJrKQD/9NbNAf9wW1gC8C4eHgTwLh4eBf8bEREHZkQyMQhmRDIxCWZEMjEK/y4eHgv/RDIxDIJEMjEN/y4eHg6CGxERD/9wW1gQ/1pHRRH/RDIxEv/+vrQT//6+tBT/spmTFWZEMjEW/3BbWBf/spmTGH4uHh4ZzIZwbBr/hnBsG4BwW1gc//6+tB3//r60HjP6tIkfq/q0iSD/+rSJIf9EMjEigf6+tCOB/r60JP9EMjElgf6+tCb//r60J/+GcGwt/5yEfy7/hnBsMv+v4vkFBUCAAAAGQIAAAAdAgAAACECAAAALQUAAAA==
-```
-
-#### Axiom Layout
+<summary>Expand for Layout</summary>
 
 ```
 [Window][###Tools]
@@ -126,6 +118,27 @@ world_properties
 clipboard
 target_info
 blueprint_browser
+```
+
+
+
+</details>
+
+{% hint style="info" %}
+This layout currently supports 4k resolution, I might add more layouts for various resolutions in the future
+{% endhint %}
+
+* Theme settings: Open Axiom Editor in main menu bar go to `Help -> Style Editor -> Import from Clipboard`\
+
+
+<details>
+
+<summary>Expand For Theme</summary>
+
+#### Catppuccin Mocha Blue Theme
+
+```
+ASel0AEENhdHBwdWNjaW5fTW9jaGEJSW1HdWlEYXJrKQD/9NbNAf9wW1gC8C4eHgTwLh4eBf8bEREHZkQyMQhmRDIxCWZEMjEK/y4eHgv/RDIxDIJEMjEN/y4eHg6CGxERD/9wW1gQ/1pHRRH/RDIxEv/+vrQT//6+tBT/spmTFWZEMjEW/3BbWBf/spmTGH4uHh4ZzIZwbBr/hnBsG4BwW1gc//6+tB3//r60HjP6tIkfq/q0iSD/+rSJIf9EMjEigf6+tCOB/r60JP9EMjElgf6+tCb//r60J/+GcGwt/5yEfy7/hnBsMv+v4vkFBUCAAAAGQIAAAAdAgAAACECAAAALQUAAAA==
 ```
 
 </details>

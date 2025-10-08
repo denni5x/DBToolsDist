@@ -11,6 +11,10 @@
 * [Bulk Schematic To Blueprint](tools/bulk-schematic-to-blueprint.md)
 * [Clipboard/ Blueprint To Path](tools/clipboard-blueprint-to-path.md)
 
-***
+## Tools+
 
-* [Theme/ Layout for Axiom](theme-layout-for-axiom.md)
+* [Tree](tools+/tree.md)
+
+## Axiom Settings
+
+* [Theme/ Layout for Axiom](axiom-settings/theme-layout-for-axiom.md)

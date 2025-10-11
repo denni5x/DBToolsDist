@@ -2,9 +2,8 @@
 
 If you want my theme and or layout, you can copy the following code snippets and paste them into your Axiom Editor.
 
-* Layout settings: Open Axiom Editor in main menu bar go to `Window -> Load Layout from Clipboard`\
-  \
-
+* Layout settings: Open Axiom Editor in main menu bar go to\
+  `Window -> Load   Layout from Clipboard`
 
 <details>
 
@@ -128,7 +127,8 @@ blueprint_browser
 This layout currently supports 4k resolution, I might add more layouts for various resolutions in the future
 {% endhint %}
 
-* Theme settings: Open Axiom Editor in main menu bar go to `Help -> Style Editor -> Import from Clipboard`\
+* Theme settings: Open Axiom Editor in main menu bar go to \
+  `Help -> Style Editor -> Import from Clipboard`\
 
 
 <details>

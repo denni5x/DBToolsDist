@@ -3,6 +3,10 @@
 * [Download/ Installation](README.md)
 * [Links](links.md)
 
+## Tools+
+
+* [Tree](tools+/tree.md)
+
 ## Tools
 
 * [Overview](tools/readme.md)
@@ -11,10 +15,6 @@
 * [Bulk Blueprint To Schematic](tools/bulk-blueprint-to-schematic.md)
 * [Bulk Schematic To Blueprint](tools/bulk-schematic-to-blueprint.md)
 * [Clipboard/ Blueprint To Path](tools/clipboard-blueprint-to-path.md)
-
-## Tools+
-
-* [Tree](tools+/tree.md)
 
 ## Axiom Settings
 

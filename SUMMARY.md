@@ -1,10 +1,11 @@
 # Table of contents
 
-* [DBTools](README.md)
-* [Download/ Installation](download-installation.md)
+* [Download/ Installation](README.md)
+* [Links](links.md)
 
 ## Tools
 
+* [Overview](tools/readme.md)
 * [Clipboard/ Blueprint Place](tools/clipboard-blueprint-place.md)
 * [Blueprint Create](tools/blueprint-create.md)
 * [Bulk Blueprint To Schematic](tools/bulk-blueprint-to-schematic.md)

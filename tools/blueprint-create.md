@@ -4,21 +4,21 @@
 
 * The Create Tool allows you to create multiple blueprints of assets
 * It's basically a combination of Axiom functionalities: Box Select or Magic Select, Copy & Save Blueprint
-* Grid selection works as follows:
+* Grid selection works as follows [#grid-selection-video-tutorial](blueprint-create.md#grid-selection-video-tutorial "mention"):
   * You select a box use the mouse wheel to stack the selection in a direction left/ right/ up/ down or the `Stack` settings
 
-<div align="center"><img src="../media/CreateTool_1.png" alt="CreateTool_1.png" width="500"></div>
+<div align="center"><img src="../media/CreateTool_1.png" alt="" width="500"></div>
 
-<div align="center"><img src="../media/CreateTool_2.png" alt="CreateTool_2.png" width="500"></div>
+<div align="center"><img src="../media/CreateTool_2.png" alt="" width="500"></div>
 
-* Magic selection works as follows:
+* Magic selection works as follows [#magic-selection-video-tutorial](blueprint-create.md#magic-selection-video-tutorial "mention"):
 * You select only one box for all assets and the tool use Magic Select to all connected blocks
 * The mouse wheel will adjust the size of the selection box, like in the Box Select Tool of Axiom
 * Be aware that the Magic Select will select all connected blocks, your assets should not be connected to other blocks, otherwise the tool will select them as well (even outside the selected box)
 
-<div align="center"><img src="../media/CreateTool_3.png" alt="CreateTool_3.png" width="500"></div>
+<div align="center"><img src="../media/CreateTool_3.png" alt="" width="500"></div>
 
-<div align="center"><img src="../media/CreateTool_4.png" alt="CreateTool_4.png" width="500"></div>
+<div align="center"><img src="../media/CreateTool_4.png" alt="" width="500"></div>
 
 * When all settings are done, you press `Enter` to create the blueprints in the selected folder
 * If a blueprint name already exist in the target folder, the tool will automatically search for the highest suffix and continue counting from there
@@ -41,3 +41,13 @@
 * `Folder Path`: The folder where the blueprints will be saved. You can use the button to set a folder
 * `Tags`: Tags for the blueprint, you can add multiple tags, like in Axiom
 * `Create Blueprints`: This button will create the blueprints and save them in the selected folder
+
+
+
+## Grid Selection Video Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=gcSiEpEVazk" %}
+
+## Magic Selection Video Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=B9Gd6gQ1lws" %}

@@ -7,7 +7,7 @@
 * Notice: the created schematics will have the new `.schem` file extension
 * Once selected press the `Convert` button to start the conversion process
 
-<div align="center"><img src="../media/BlueprintToSchematic.png" alt="BlueprintToSchematic.png" width="500"></div>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Tool Options
 

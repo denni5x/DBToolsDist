@@ -10,7 +10,7 @@
   * The extend to ground option only extends the last layer of the clipboard to the ground, like the Stamp Tool does
 * This tool works great if you want to paste the same clipboard along a path (like lanterns along a small path)
 
-<div align="center"><img src="../media/BpToPathTool.png" alt="BpToPathTool.png" width="500"></div>
+<div align="center"><img src="../media/BpToPathTool.png" alt="" width="500"></div>
 
 ## Tool Options
 
@@ -22,3 +22,5 @@
 * `Keep Existing`: Keeps existing blocks while pasting the clipboards
 * `Extend To Ground`: Extends the last layer of each clipboard to the ground
 * `Paste Copy`: Button to paste the current clipboard path - can also use `Enter` to paste
+
+{% embed url="https://www.youtube.com/watch?v=ibA2YGyv_sQ" %}

@@ -7,7 +7,7 @@
 * Notice: The tool will convert schematics with the `.schem`, `.schematic` and `.litematic` file extension
 * Once selected press the `Convert` button to start the conversion process
 
-<div align="center"><img src="../media/SchematicToBlueprint.png" alt="SchematicToBlueprint.png" width="500"></div>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Tool Options
 

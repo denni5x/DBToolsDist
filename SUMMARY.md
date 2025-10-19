@@ -11,6 +11,7 @@
 ## Tools
 
 * [Overview](tools/readme.md)
+* [Toggle Fly Speed](tools/toggle-fly-speed.md)
 * [Clipboard/ Blueprint Place](tools/clipboard-blueprint-place.md)
 * [Blueprint Create](tools/blueprint-create.md)
 * [Bulk Blueprint To Schematic](tools/bulk-blueprint-to-schematic.md)

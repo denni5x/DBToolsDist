@@ -1,11 +1,5 @@
 # Links
 
-**Patreon:** [https://www.patreon.com/dennisbuilds](https://www.patreon.com/dennisbuilds)&#x20;
+<p align="center"><a href="https://discord.com/invite/ZfVP5RmQzb"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg" alt="discord-plural"></a> <a href="https://dennisbuilds.gitbook.io/dbtools/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/gitbook_vector.svg" alt="gitbook"></a> <a href="https://www.patreon.com/dennisbuilds"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg" alt="patreon-singular"></a></p>
 
-**Twitter:** [https://x.com/dennisbuilds](https://x.com/dennisbuilds)&#x20;
-
-**Youtube:** [https://www.youtube.com/@dennisbuilds](https://www.youtube.com/@dennisbuilds)&#x20;
-
-**Discord** [https://discord.com/invite/ZfVP5RmQzb](https://discord.com/invite/ZfVP5RmQzb)
-
-**DBTools Modrinth:** [https://modrinth.com/mod/dbtools](https://modrinth.com/mod/dbtools)&#x20;
+<p align="center"><a href="https://modrinth.com/mod/dbtools"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/modrinth-gallery_vector.svg" alt="modrinth-gallery"></a> <a href="https://x.com/dennisbuilds"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg" alt="twitter-singular"></a> <a href="https://www.youtube.com/@dennisbuilds"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg" alt="youtube-singular"></a></p>

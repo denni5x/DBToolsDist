@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Download/ Installation](README.md)
+* [Overview](README.md)
+* [Download/ Installation](<README (1).md>)
 * [Links](links.md)
 
 ## Tools+
@@ -10,13 +11,12 @@
 
 ## Tools
 
-* [Overview](tools/readme.md)
 * [Toggle Fly Speed](tools/toggle-fly-speed.md)
-* [Clipboard/ Blueprint Place](tools/clipboard-blueprint-place.md)
 * [Blueprint Create](tools/blueprint-create.md)
+* [Clipboard/ Blueprint Place](tools/clipboard-blueprint-place.md)
+* [Clipboard/ Blueprint To Path](tools/clipboard-blueprint-to-path.md)
 * [Bulk Blueprint To Schematic](tools/bulk-blueprint-to-schematic.md)
 * [Bulk Schematic To Blueprint](tools/bulk-schematic-to-blueprint.md)
-* [Clipboard/ Blueprint To Path](tools/clipboard-blueprint-to-path.md)
 
 ## Axiom Settings
 

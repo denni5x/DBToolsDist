@@ -1,78 +1,136 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: false
----
+# Overview
 
-# Download/ Installation
+<div align="center"><img src="media/icon.png" alt="DBTools Icon" height="128" width="128"></div>
 
-## Download
+## DBTools+
 
-Latest version can be found on Discord or on Modrinth.
+### Overview
 
-[Discord](https://discord.com/invite/ZfVP5RmQzb)
+DBTools+ is an Axiom addon created to enhance the Minecraft building process.\
+It provides in-game tools that help builders generate, plan, and organize structures more efficiently.
 
-[Modrinth](https://modrinth.com/mod/dbtools)
+Currently, the addon includes one primary tool, with additional features in active development.\
+The long-term goal of DBTools+ is to offer a reliable set of utilities that simplify creative building tasks in Minecraft.
 
-## Manual Installation
+***
 
-The following instructions also apply to DBToolsPlus
+### Current Tools
 
-1. Download the latest mod release
-   * If you don't know which version to download, check the version of Axiom you are using
-     * You can find the version of Axiom in the `mods` folder of your Minecraft installation
-   * The mod version should match the Axiom version and Minecraft version `DBTools-<Axiom Version>_<Minecraft Version>`
-2. Locate your Minecraft Folder
-   * Windows: Hit Windows Key + R and type in %appdata%. Open the .minecraft folder
-   * ac: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type \~/Library/Application Support/Minecraft, then press enter.
-   * Linux: .minecraft is located in your home folder. \~/.minecraft
-3. Once in the Minecraft folder open the mods folder and paste the mod .jar file in it
-   * If you do not have a mods folder, create one
-4.  Your folder should look something like this (probably with different versions):
+#### Tree Tool [tree.md](tools+/tree.md "mention")
 
-    ```
-    .minecraft
-    ├── mods
-    │   └── DBTools-4.9.1_1.21.4.jar
-    │   └── Axiom-4.9.1-for-MC1.21.4.jar
-    │   └── fabric-api-0.119.3+1.21.4.jar
-    └── ...
-    ```
+The Tree Tool is a procedural tree generator built into Axiom through DBTools+.\
+It allows players to quickly create trees with customizable parameters to suit different environments and styles.
 
-## Modrinth Installation
+Features
 
-1. For [#manual-installation](./#manual-installation "mention") you can also download the correct version for your Minecraft Instance from Modrinth
+* Adjustable trunk height and width
+* Configurable branches
+* Customizable leaf shapes
+* Generates directly within the game world
 
-{% hint style="info" %}
-Remember DBTools can be downloaded/updated directly through "Install Content" in the Modrinth App
-{% endhint %}
+This tool is designed for builders who want to populate landscapes or add detailed vegetation without manually constructing each tree.
 
-<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+***
 
-2. Once the mod is downloaded you can add it to your Modrinth App instance:
+### Work in Progress
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+#### Prototyping Tool [prototype-preview.md](tools+/prototype-preview.md "mention")
 
-3. When you added DBToolsPlus or DBTools, your instance should look something like this:
+The **Prototyping Tool** is currently under development.\
+It will provide a way to create, visualize, and plan structures directly in-game before building the final version.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+**Planned Functionality**
 
-## Check if the mod is loaded
+* Define and map out structure layouts
+* Test proportions and positioning in-game
+* Save and adjust prototypes for later reference
 
-* Open the Axiom Editor and have a look at Tools tab
-* If you see the new icons at the end of the tools list you have successfully installed the mod
-* You can hove over the icons to the see the tool names
-* It should look like this:
+This tool aims to improve the early design phase of building projects, helping players organize ideas and experiment with different layouts more efficiently.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+***
+
+### Purpose and Design Philosophy
+
+DBTools+ focuses on delivering practical, builder-oriented tools for Minecraft users who rely on Axiom.\
+Each tool is designed to integrate naturally into the building workflow without unnecessary complexity.
+
+The project emphasizes:
+
+* In-game usability
+* Consistent, predictable results
+* Support for creative experimentation
+
+Future updates will continue expanding DBTools+ with new tools and improvements aimed at simplifying the building process.
+
+***
+
+## DBTools
+
+### Overview
+
+DBTools is an Axiom addon that provides a collection of small, practical tools designed to improve building efficiency and workflow in Minecraft.\
+Each feature focuses on convenience and usability, helping builders perform common actions more quickly and consistently.
+
+DBTools complements Axiom by offering lightweight utilities that enhance everyday building tasks.
+
+***
+
+### Features and Tools
+
+#### Toggle Fly Speed Key Bind [toggle-fly-speed.md](tools/toggle-fly-speed.md "mention")
+
+Allows players to toggle between two preset flight speeds using a key bind.\
+This feature is useful for quickly switching between precise building movement and fast traversal.
+
+***
+
+#### Clipboard / Blueprint Place [clipboard-blueprint-place.md](tools/clipboard-blueprint-place.md "mention")
+
+Provides a faster and more intuitive way to place blueprints or clipboards in-game.\
+This tool offers a simpler workflow than Axiom’s default placement system and allows for instant pasting.
+
+***
+
+#### Clipboard / Blueprint to Path [clipboard-blueprint-to-path.md](tools/clipboard-blueprint-to-path.md "mention")
+
+Automatically pastes a clipboard or blueprint along a defined path.\
+Players can set the distance between placements, making it easy to line up repeated structures such as fences, lamps, or decorative builds.
+
+***
+
+#### Blueprint Create [blueprint-create.md](tools/blueprint-create.md "mention")
+
+Allows for bulk blueprint creation from selected areas.\
+Players can generate multiple blueprints at once, either aligned to a grid or floating freely.
+
+***
+
+#### Bulk Blueprint to Schematic Conversion [bulk-blueprint-to-schematic.md](tools/bulk-blueprint-to-schematic.md "mention")
+
+Converts multiple blueprints into schematics in one action.\
+This is useful for exporting large collections of builds for external use or backup.
+
+***
+
+#### Bulk Schematic to Blueprint Conversion [bulk-schematic-to-blueprint.md](tools/bulk-schematic-to-blueprint.md "mention")
+
+The inverse of the previous feature, this tool allows users to import and convert multiple schematics into blueprints for in-game use.
+
+***
+
+### Purpose and Design Philosophy
+
+DBTools focuses on quality-of-life features that make the building process smoother and faster.\
+Each tool is designed to perform a specific task efficiently, without adding unnecessary complexity.
+
+The addon is intended for builders who use Axiom regularly and want a set of reliable utilities to assist with repetitive or time-consuming tasks.
+
+Future updates may include additional workflow optimizations and expanded support for Axiom features.
+
+
+
+## Links
+
+<p align="center"><a href="https://discord.com/invite/ZfVP5RmQzb"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg" alt="discord-plural"></a> <a href="https://dennisbuilds.gitbook.io/dbtools/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/gitbook_vector.svg" alt="gitbook"></a> <a href="https://www.patreon.com/dennisbuilds"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg" alt="patreon-singular"></a></p>
+
+<p align="center"><a href="https://modrinth.com/mod/dbtools"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/modrinth-gallery_vector.svg" alt="modrinth-gallery"></a> <a href="https://x.com/dennisbuilds"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg" alt="twitter-singular"></a> <a href="https://www.youtube.com/@dennisbuilds"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg" alt="youtube-singular"></a></p>

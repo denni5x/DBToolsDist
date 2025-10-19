@@ -6,6 +6,7 @@
 ## Tools+
 
 * [Tree](tools+/tree.md)
+* [Prototype (Preview)](tools+/prototype-preview.md)
 
 ## Tools
 

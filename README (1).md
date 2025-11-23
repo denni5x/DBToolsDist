@@ -58,11 +58,11 @@ The following instructions also apply to DBToolsPlus
 Remember DBTools can be downloaded/updated directly through "Install Content" in the Modrinth App
 {% endhint %}
 
-<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 2. Once the mod is downloaded you can add it to your Modrinth App instance:
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. When you added DBToolsPlus or DBTools, your instance should look something like this:
 
@@ -75,4 +75,4 @@ Remember DBTools can be downloaded/updated directly through "Install Content" in
 * You can hove over the icons to the see the tool names
 * It should look like this:
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -15,6 +15,7 @@
 * [Blueprint Create](tools/blueprint-create.md)
 * [Clipboard/ Blueprint Place](tools/clipboard-blueprint-place.md)
 * [Clipboard/ Blueprint To Path](tools/clipboard-blueprint-to-path.md)
+* [Grid Place Tool](tools/grid-place-tool.md)
 * [Bulk Blueprint To Schematic](tools/bulk-blueprint-to-schematic.md)
 * [Bulk Schematic To Blueprint](tools/bulk-schematic-to-blueprint.md)
 

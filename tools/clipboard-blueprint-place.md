@@ -7,7 +7,7 @@
 * The Place Tool will automatically rotate the blueprint according to the targeted block face
 * In the following example I copied a selection (in this case it is a simple window pattern)
 
-<div align="center"><img src="../media/PlaceTool_1.png" alt="" width="500"></div>
+<div align="center"><img src="../.gitbook/assets/PlaceTool_1.png" alt="" width="500"></div>
 
 * Now you can adjust the settings
 

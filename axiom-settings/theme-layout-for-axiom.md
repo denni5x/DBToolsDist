@@ -128,8 +128,7 @@ This layout currently supports 4k resolution, I might add more layouts for vario
 {% endhint %}
 
 * Theme settings: Open Axiom Editor in main menu bar go to \
-  `Help -> Style Editor -> Import from Clipboard`\
-
+  `Help -> Style Editor -> Import from Clipboard`<br>
 
 <details>
 

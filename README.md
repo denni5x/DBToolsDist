@@ -1,6 +1,6 @@
 # Overview
 
-<div align="center"><img src="media/icon.png" alt="DBTools Icon" height="128" width="128"></div>
+<div align="center"><img src=".gitbook/assets/icon.png" alt="DBTools Icon" height="128" width="128"></div>
 
 ## DBTools+
 

@@ -18,6 +18,7 @@
 * [Grid Place Tool](tools/grid-place-tool.md)
 * [Bulk Blueprint To Schematic](tools/bulk-blueprint-to-schematic.md)
 * [Bulk Schematic To Blueprint](tools/bulk-schematic-to-blueprint.md)
+* [Bulk Convert Minecraft To Hytale Prefab](tools/bulk-convert-minecraft-to-hytale-prefab.md)
 
 ## Operations
 

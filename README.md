@@ -2,23 +2,19 @@
 
 <div align="center"><img src=".gitbook/assets/icon.png" alt="DBTools Icon" height="128" width="128"></div>
 
-## DBTools+
+## DBTools
 
-### Overview
+An addon for Axiom with some nice QoL features.
 
-DBTools+ is an Axiom addon created to enhance the Minecraft building process.\
-It provides in-game tools that help builders generate, plan, and organize structures more efficiently.
-
-Currently, the addon includes one primary tool, with additional features in active development.\
-The long-term goal of DBTools+ is to offer a reliable set of utilities that simplify creative building tasks in Minecraft.
+DBTools is an Axiom addon created to enhance the Minecraft building process. It provides in-game tools that help builders generate, plan, and organize structures more efficiently.
 
 ***
 
-### Current Tools
+### Tools
 
-#### Tree Tool [tree.md](tools+/tree.md "mention")
+#### Tree Tool [tree.md](tools/tree.md "mention")
 
-The Tree Tool is a procedural tree generator built into Axiom through DBTools+.\
+The Tree Tool is a procedural tree generator built into Axiom through DBTools.\
 It allows players to quickly create trees with customizable parameters to suit different environments and styles.
 
 Features
@@ -32,9 +28,7 @@ This tool is designed for builders who want to populate landscapes or add detail
 
 ***
 
-### Work in Progress
-
-#### Prototyping Tool [prototype-preview.md](tools+/prototype-preview.md "mention")
+#### Prototyping Tool [prototype-preview.md](tools/prototype-preview.md "mention")
 
 The **Prototyping Tool** is currently under development.\
 It will provide a way to create, visualize, and plan structures directly in-game before building the final version.
@@ -49,34 +43,6 @@ This tool aims to improve the early design phase of building projects, helping p
 
 ***
 
-### Purpose and Design Philosophy
-
-DBTools+ focuses on delivering practical, builder-oriented tools for Minecraft users who rely on Axiom.\
-Each tool is designed to integrate naturally into the building workflow without unnecessary complexity.
-
-The project emphasizes:
-
-* In-game usability
-* Consistent, predictable results
-* Support for creative experimentation
-
-Future updates will continue expanding DBTools+ with new tools and improvements aimed at simplifying the building process.
-
-***
-
-## DBTools
-
-### Overview
-
-DBTools is an Axiom addon that provides a collection of small, practical tools designed to improve building efficiency and workflow in Minecraft.\
-Each feature focuses on convenience and usability, helping builders perform common actions more quickly and consistently.
-
-DBTools complements Axiom by offering lightweight utilities that enhance everyday building tasks.
-
-***
-
-### Features and Tools
-
 #### Toggle Fly Speed Key Bind [toggle-fly-speed.md](tools/toggle-fly-speed.md "mention")
 
 Allows players to toggle between two preset flight speeds using a key bind.\
@@ -87,7 +53,7 @@ This feature is useful for quickly switching between precise building movement a
 #### Clipboard / Blueprint Place [clipboard-blueprint-place.md](tools/clipboard-blueprint-place.md "mention")
 
 Provides a faster and more intuitive way to place blueprints or clipboards in-game.\
-This tool offers a simpler workflow than Axiom’s default placement system and allows for instant pasting.
+This tool offers a simpler workflow than Axiom's default placement system and allows for instant pasting.
 
 ***
 
@@ -117,17 +83,6 @@ This is useful for exporting large collections of builds for external use or bac
 The inverse of the previous feature, this tool allows users to import and convert multiple schematics into blueprints for in-game use.
 
 ***
-
-### Purpose and Design Philosophy
-
-DBTools focuses on quality-of-life features that make the building process smoother and faster.\
-Each tool is designed to perform a specific task efficiently, without adding unnecessary complexity.
-
-The addon is intended for builders who use Axiom regularly and want a set of reliable utilities to assist with repetitive or time-consuming tasks.
-
-Future updates may include additional workflow optimizations and expanded support for Axiom features.
-
-
 
 ## Links
 

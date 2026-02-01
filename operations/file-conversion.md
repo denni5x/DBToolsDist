@@ -6,9 +6,9 @@ description: Convert Blueprints to Schematics and vice versa
 
 You can open the window through the main menu option `DBTools --> File Conversion`
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption>Navigation to File Conversion Menu</figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption>File Conversion Window</figcaption></figure>
 
 ## Bulk Blueprint To Schematic
 

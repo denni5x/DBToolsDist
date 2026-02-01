@@ -11,7 +11,7 @@ Place blueprints along a curved or straight path with customizable spacing and c
 * Press **Enter** to paste the blueprints along the path
 * Press **Escape** to deselect the current point
 
-<div align="center"><img src="../.gitbook/assets/BpToPathTool.png" alt="" width="500"></div>
+<div align="center"><img src="../.gitbook/assets/BpToPathTool (1).png" alt="" width="500"></div>
 
 ## Tool Options
 
@@ -48,6 +48,7 @@ Place blueprints along a curved or straight path with customizable spacing and c
 ### Point Section
 
 When a point is selected, you can:
+
 * View and edit the exact **Position** (X, Y, Z coordinates)
 * **Remove** the selected point
 
